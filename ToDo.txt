@@ -1,8 +1,8 @@
 Larp list to-do
 
-[ ] Set up email
-[ ] Set up Reddit
-[ ] Set up Twitter
+[X] Set up email
+[X] Set up Reddit
+[X] Set up Twitter
 [ ] Ask about Larps on Reddit
 [ ] Ask about Larps on Twitter
 [ ] Come up with name
